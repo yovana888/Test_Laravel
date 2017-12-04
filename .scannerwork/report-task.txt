@@ -1,0 +1,5 @@
+projectKey=laravel-helpers
+serverUrl=http://localhost:9000
+dashboardUrl=http://localhost:9000/dashboard/index/laravel-helpers
+ceTaskId=AV9oa5t3rkeQ1CB6BwXo
+ceTaskUrl=http://localhost:9000/api/ce/task?id=AV9oa5t3rkeQ1CB6BwXo
